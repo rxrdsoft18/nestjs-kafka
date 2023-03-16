@@ -11,3 +11,9 @@ $ yarn install
 # development
 $ yarn run start
 ```
+
+## Run docker-compose
+
+```bash
+$ docker-compose up -d
+```
